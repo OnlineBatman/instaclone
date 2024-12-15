@@ -1,6 +1,6 @@
 <?php
 // Connect to the database
-$conn = new mysqli('localhost', 'root', '', 'instaphising');
+$conn = new mysqli('localhost', 'root', '', 'instaclone');
 
 // Check connection
 if ($conn->connect_error) {
